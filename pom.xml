@@ -15,16 +15,24 @@
 	<description>Eureka Server for CrimsonSky</description>
 	<url/>
 	<licenses>
-		<license/>
+		<license>
+			<name>MIT License</name>
+			<url>https://opensource.org/licenses/MIT</url>
+		</license>
 	</licenses>
 	<developers>
-		<developer/>
+		<developer>
+			<id>ved-asole</id>
+			<name>Ved Asole</name>
+			<email>vedasole001@gmail.com</email>
+			<url>https://vedasole.cloud</url>
+		</developer>
 	</developers>
 	<scm>
-		<connection/>
-		<developerConnection/>
+		<connection>scm:git:git://github.com/ved-asole/eureka-server.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com/ved-asole/eureka-server.git</developerConnection>
 		<tag/>
-		<url/>
+		<url>https://github.com/ved-asole/eureka-server</url>
 	</scm>
 	<properties>
 		<java.version>21</java.version>
